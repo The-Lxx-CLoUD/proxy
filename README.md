@@ -14,4 +14,3 @@ nano sources.list
 ## 2️⃣Import proxy
 ## 3️⃣Save and exit
 ## 4️⃣Reboot
-.
